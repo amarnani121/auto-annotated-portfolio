@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a developer, digital artist, consultant and a bunch of other
-      impressive titles and buzz words.
+      "I’m a developer, creator, and problem-solver, turning ideas into
+      impactful solutions."
     subtitle: >-
       A showcase of creativity, dedication, and skills. Scroll down to explore
       the details that define me
