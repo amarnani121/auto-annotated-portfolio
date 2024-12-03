@@ -21,7 +21,7 @@ Say hello to the future of communication. This AI-powered Telegram Bot, built wi
 
 > “Everybody should learn to program a computer, because it teaches you how to think.”
 
-**AI-Powered Telegram Bot**
+[**AI-Powered Telegram Bot**](https://t.me/amarSFriday_bot)
 
 Welcome to the future of digital interaction! I’ve developed an AI-powered Telegram Bot, built using the advanced ChatGPT API, designed to provide a seamless and intelligent conversational experience. This bot goes beyond simply answering questions; it is designed to understand, assist, and engage with users in a way that makes everyday tasks more efficient and enjoyable.
 
@@ -47,5 +47,5 @@ This AI-powered Telegram bot can be used in a variety of real-world scenarios, w
 
 In essence, this bot is designed to make your life easier, more organized, and more productive, all while interacting with you in a natural, human-like way.
 
-
+## [BOT LINK.....](https://t.me/amarSFriday_bot)
 
