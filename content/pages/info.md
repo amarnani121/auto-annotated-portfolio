@@ -162,7 +162,7 @@ sections:
       - type: Label
         label: 'SQL, MySQL'
       - type: Label
-        label: Netlify
+        label: Object-Oriented Programming (OOP)
       - type: Label
         label: Pancakes
       - type: Label
