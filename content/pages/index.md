@@ -14,8 +14,8 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      "I’m a developer, creator, and problem-solver, turning ideas into
-      impactful solutions."
+      "I’m a developer, Code, creativity, and problem-solving—it's what I do to
+      bring ideas to life
     subtitle: >-
       A showcase of creativity, dedication, and skills. Scroll down to explore
       the details that define me
