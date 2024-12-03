@@ -106,7 +106,7 @@ sections:
         actions:
           - type: Link
             label: Linkedin
-            url: 'https://discord.com/'
+            url: 'https://www.linkedin.com/in/amareshuppaluri'
         styles:
           self:
             textAlign: left
