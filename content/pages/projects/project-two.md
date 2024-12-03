@@ -4,7 +4,7 @@ title: Telegram Bot with AI power
 colors: colors-a
 date: '2022-12-20'
 client: Awesome client
-description: "It’s hard to imagine that \"AI-powered Telegram Bot built with ChatGPT API, delivering smart, instant, and interactive conversations. \U0001F680\U0001F916"
+description: "\"AI-powered Telegram Bot built with ChatGPT API, delivering smart, instant, and interactive conversations. \U0001F680\U0001F916 Simplifying tasks and enhancing user experience with the power of AI.\""
 featuredImage:
   type: ImageBlock
   url: /images/telegram-bot.jpg
