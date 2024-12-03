@@ -192,4 +192,5 @@ sections:
         textAlign: left
       text:
         textAlign: left
+socialImage: /images/Screenshot 2024-12-03 144453.png
 ---
