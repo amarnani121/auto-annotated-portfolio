@@ -324,7 +324,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your thoughts
+          placeholder: '"Can you share your thoughts with me?"'
           isRequired: true
           width: full
           type: TextareaFormControl
