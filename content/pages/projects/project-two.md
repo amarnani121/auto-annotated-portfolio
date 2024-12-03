@@ -16,16 +16,6 @@ backgroundImage:
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
-media:
-  type: VideoBlock
-  title: 'https://youtube.com/shorts/hBWsSgGCV3k?si=v1kPL56hXwFk4b41'
-  url: 'https://youtube.com/shorts/hBWsSgGCV3k?si=v1kPL56hXwFk4b41'
-  elementId: ''
-  autoplay: true
-  loop: true
-  muted: false
-  controls: false
-  aspectRatio: '4:3'
 ---
 Say hello to the future of communication. This AI-powered Telegram Bot, built with the ChatGPT API, redefines smart interaction. Instant answers, task automation, and a customizable experience—all at your fingertips. Why settle for basic when you can have AI that works for you, 24/7?
 
