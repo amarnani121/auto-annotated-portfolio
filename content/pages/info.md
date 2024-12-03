@@ -105,7 +105,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: Discord
+            label: Linkedin
             url: 'https://discord.com/'
         styles:
           self:
