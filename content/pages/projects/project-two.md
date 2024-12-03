@@ -9,6 +9,13 @@ featuredImage:
   type: ImageBlock
   url: /images/telegram-bot.jpg
   altText: Project thumbnail image
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 Say hello to the future of communication. This AI-powered Telegram Bot, built with the ChatGPT API, redefines smart interaction. Instant answers, task automation, and a customizable experience—all at your fingertips. Why settle for basic when you can have AI that works for you, 24/7?
 
