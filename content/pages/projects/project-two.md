@@ -20,10 +20,7 @@ media:
   type: VideoBlock
   title: Title of the video
   url: >-
-    <iframe
-    src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7153052149231276032"
-    height="1262" width="504" frameborder="0" allowfullscreen="" title="Embedded
-    post"></iframe>
+    https://www.linkedin.com/posts/amareshuppaluri_techinnovation-aiassistant-amartechcreation-activity-7153052159700254720-w1wp?utm_source=share&utm_medium=member_desktop
   elementId: ''
   autoplay: false
   loop: false
