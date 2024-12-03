@@ -154,7 +154,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: ' Python, C++'
+        label: ' Python'
       - type: Label
         label: 'HTML, CSS, JavaScript (Basic)'
       - type: Label
