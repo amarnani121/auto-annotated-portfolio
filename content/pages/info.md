@@ -88,7 +88,7 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
+            url: 'https://github.com/amarnani121'
         styles:
           self:
             textAlign: left
