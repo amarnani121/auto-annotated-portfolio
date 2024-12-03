@@ -158,7 +158,7 @@ sections:
       - type: Label
         label: 'HTML, CSS, JavaScript (Basic)'
       - type: Label
-        label: Microsoft Office
+        label: 'Git, GitHub, Visual Studio Code, Jupyter Notebook'
       - type: Label
         label: Next.js
       - type: Label
