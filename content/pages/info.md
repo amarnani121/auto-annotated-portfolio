@@ -13,11 +13,22 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ## Hey I’m a passionate software developer with a deep interest in solving
+      complex problems using Data Structures and Algorithms (DSA). With a focus
+      on Python, I’m constantly striving to refine my coding skills and stay
+      ahead of the curve in the world of tech.
+
+
+      I believe in the power of continuous learning and brain engagement, always
+      challenging myself to think critically and improve. Outside of coding, I
+      share my journey and insights through educational DSA reels on Instagram
+      to stay consistent and motivated.
+
+
+      I’m always excited to connect with like-minded individuals, learn from
+      others, and collaborate on meaningful projects. Explore my work and feel
+      free to reach out!
     media:
       type: ImageBlock
       url: /images/about.jpg
