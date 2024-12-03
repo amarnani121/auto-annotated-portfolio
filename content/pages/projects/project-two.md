@@ -11,7 +11,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2024-12-03 185141.png
   altText: Project image
 ---
 Say hello to the future of communication. This AI-powered Telegram Bot, built with the ChatGPT API, redefines smart interaction. Instant answers, task automation, and a customizable experience—all at your fingertips. Why settle for basic when you can have AI that works for you, 24/7?
