@@ -19,8 +19,7 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: >-
-    https://www.linkedin.com/posts/amareshuppaluri_techinnovation-aiassistant-amartechcreation-activity-7153052159700254720-w1wp?utm_source=share&utm_medium=member_desktop
+  url: 'https://youtube.com/shorts/0UMsT4Qj3ro?si=mcKIqR4lVUv8ucyb'
   elementId: ''
   autoplay: false
   loop: false
