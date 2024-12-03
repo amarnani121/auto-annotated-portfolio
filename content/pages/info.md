@@ -168,7 +168,7 @@ sections:
       - type: Label
         label: C++
       - type: Label
-        label: Swift
+        label: "Software Design\_Principles"
   - type: DividerSection
     styles:
       self:
