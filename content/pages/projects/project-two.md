@@ -19,7 +19,11 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: >-
+    <iframe
+    src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7153052149231276032"
+    height="1262" width="504" frameborder="0" allowfullscreen="" title="Embedded
+    post"></iframe>
   elementId: ''
   autoplay: false
   loop: false
