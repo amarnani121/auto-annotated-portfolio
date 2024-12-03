@@ -19,7 +19,7 @@ backgroundImage:
 media:
   type: VideoBlock
   title: Title of the video
-  url: 'https://youtu.be/BD-YliszGkA'
+  url: 'https://youtube.com/shorts/hBWsSgGCV3k?si=5v92PqviTw34v77z'
   elementId: ''
   autoplay: false
   loop: false
