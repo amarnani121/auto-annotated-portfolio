@@ -17,8 +17,8 @@ sections:
       I’m a developer, digital artist, consultant and a bunch of other
       impressive titles and buzz words.
     subtitle: >-
-      This is where passion meets expertise. Scroll down to explore my journey,
-      work, and the impact I've made.
+      A showcase of creativity, dedication, and skills. Scroll down to explore
+      the details that define me
     styles:
       self:
         height: auto
