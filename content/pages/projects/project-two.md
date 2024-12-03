@@ -18,7 +18,7 @@ backgroundImage:
   opacity: 100
 media:
   type: VideoBlock
-  title: Title of the video
+  title: 'https://youtube.com/shorts/hBWsSgGCV3k?si=v1kPL56hXwFk4b41'
   url: 'https://youtube.com/shorts/hBWsSgGCV3k?si=v1kPL56hXwFk4b41'
   elementId: ''
   autoplay: true
