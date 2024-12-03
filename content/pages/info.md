@@ -160,7 +160,7 @@ sections:
       - type: Label
         label: 'Git, GitHub, Visual Studio Code, Jupyter Notebook'
       - type: Label
-        label: Next.js
+        label: 'SQL, MySQL'
       - type: Label
         label: Netlify
       - type: Label
