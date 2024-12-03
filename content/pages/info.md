@@ -164,7 +164,7 @@ sections:
       - type: Label
         label: Object-Oriented Programming (OOP)
       - type: Label
-        label: Pancakes
+        label: ''
       - type: Label
         label: C++
       - type: Label
