@@ -4,10 +4,7 @@ title: Telegram Bot with AI power
 colors: colors-a
 date: '2022-12-20'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: "It’s hard to imagine that\"AI-powered Telegram Bot built with ChatGPT API, delivering smart, instant, and interactive conversations. \U0001F680\U0001F916\""
 featuredImage:
   type: ImageBlock
   url: /images/telegram-bot.jpg
