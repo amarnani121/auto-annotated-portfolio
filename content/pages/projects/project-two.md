@@ -21,7 +21,7 @@ media:
   title: Title of the video
   url: 'https://youtube.com/shorts/hBWsSgGCV3k?si=v1kPL56hXwFk4b41'
   elementId: ''
-  autoplay: false
+  autoplay: true
   loop: false
   muted: false
   controls: false
