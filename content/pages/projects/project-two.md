@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Telegram
+title: Telegram Bot with AI power
 colors: colors-a
 date: '2021-12-20'
 client: Awesome client
