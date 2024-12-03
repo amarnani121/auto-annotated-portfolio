@@ -22,7 +22,7 @@ media:
   url: 'https://youtube.com/shorts/hBWsSgGCV3k?si=v1kPL56hXwFk4b41'
   elementId: ''
   autoplay: true
-  loop: false
+  loop: true
   muted: false
   controls: false
   aspectRatio: '4:3'
