@@ -156,7 +156,7 @@ sections:
       - type: Label
         label: ' Python, C++'
       - type: Label
-        label: React
+        label: 'HTML, CSS, JavaScript (Basic)'
       - type: Label
         label: Microsoft Office
       - type: Label
