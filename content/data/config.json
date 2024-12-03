@@ -47,12 +47,6 @@
                 "label": "Contact",
                 "url": "amarnani121@gmail.com",
                 "altText": ""
-            },
-            {
-                "type": "Link",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "altText": "Netlify templates"
             }
         ],
         "contacts": {
