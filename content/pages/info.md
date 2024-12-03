@@ -31,7 +31,7 @@ sections:
       free to reach out!
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/WhatsApp Image 2024-11-29 at 22.09.33_9f991166.jpg
       altText: Hero image
     styles:
       self:
