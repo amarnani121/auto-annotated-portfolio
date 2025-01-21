@@ -15,15 +15,13 @@ sections:
     backgroundSize: full
     text: >
       ## Hey I’m a passionate software developer with a deep interest in solving
-      complex problems using Data Structures and Algorithms (DSA). With a focus
-      on Python, I’m constantly striving to refine my coding skills and stay
-      ahead of the curve in the world of tech.
+      complex problems. With a focus on Python, I’m constantly striving to
+      refine my coding skills and stay ahead of the curve in the world of tech.
 
 
       I believe in the power of continuous learning and brain engagement, always
       challenging myself to think critically and improve. Outside of coding, I
-      share my journey and insights through educational DSA reels on Instagram
-      to stay consistent and motivated.
+      share my journey  to stay consistent and motivated.
 
 
       I’m always excited to connect with like-minded individuals, learn from
