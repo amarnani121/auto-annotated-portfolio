@@ -5,9 +5,13 @@ colors: colors-a
 date: ''
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Multiple Behavioral Modes: Choose from a range of chatbot personalities to
+  suit your interaction style, ensuring a personalized and enjoyable
+  conversation every time.Diverse AI Models: Explore a suite of advanced AI
+  models integrated into the platform, each designed to handle specific tasks
+  and queries with precision and intelligence.Lightning-Fast Responses:
+  Experience one of the fastest AI chatbots available, delivering prompt and
+  accurate replies to keep your conversations seamless and efficient.
 featuredImage:
   type: ImageBlock
   url: /images/stmlit.png
