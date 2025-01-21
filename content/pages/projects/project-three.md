@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: One more cool project
+title: 'Amar''s AI Chat Suite: Models with Character'
 colors: colors-a
 date: ''
 client: Awesome client
