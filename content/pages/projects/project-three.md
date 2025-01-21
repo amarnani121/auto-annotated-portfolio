@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: 'Amar''s AI Chat Suite: Models with Character'
+title: 'Amar''s AI Chat : Models with Character'
 colors: colors-a
 date: ''
 client: a webapp
