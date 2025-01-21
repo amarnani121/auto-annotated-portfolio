@@ -5,13 +5,10 @@ colors: colors-a
 date: ''
 client: Awesome client
 description: >-
-  Multiple Behavioral Modes: Choose from a range of chatbot personalities to
-  suit your interaction style, ensuring a personalized and enjoyable
-  conversation every time.Diverse AI Models: Explore a suite of advanced AI
-  models integrated into the platform, each designed to handle specific tasks
-  and queries with precision and intelligence.Lightning-Fast Responses:
-  Experience one of the fastest AI chatbots available, delivering prompt and
-  accurate replies to keep your conversations seamless and efficient.
+  Behavioral Modes: Select from various chatbot personalities for a tailored
+  interaction.Advanced AI Models: Utilize specialized models for precise task
+  handling.Rapid Responses: Engage with one of the fastest AI chatbots for
+  seamless conversations.
 featuredImage:
   type: ImageBlock
   url: /images/stmlit.png
