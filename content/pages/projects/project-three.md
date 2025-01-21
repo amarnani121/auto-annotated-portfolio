@@ -16,7 +16,7 @@ featuredImage:
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-01-21 154712.png
-  altText: altText of the image
+  altText: glims
   caption: Caption of the image
   elementId: ''
 ---
