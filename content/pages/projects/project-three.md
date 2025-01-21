@@ -3,7 +3,7 @@ type: ProjectLayout
 title: 'Amar''s AI Chat Suite: Models with Character'
 colors: colors-a
 date: ''
-client: Awesome client
+client: a webapp
 description: >-
   Behavioral Modes: Select from various chatbot personalities for a tailored
   interaction.Advanced AI Models: Utilize specialized models for precise task
