@@ -17,7 +17,6 @@ media:
   elementId: ''
 backgroundImage:
   type: BackgroundImage
-  url: /images/Screenshot 2025-01-22 122009.png
   backgroundSize: auto
   backgroundPosition: left-bottom
   backgroundRepeat: repeat
