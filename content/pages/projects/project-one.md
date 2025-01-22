@@ -4,10 +4,7 @@ title: "Hyderabad Weather App \U0001F326️"
 colors: colors-a
 date: '2025-01-22'
 client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+description: "The Hyderabad Weather App is a sleek and dynamic web application that provides real-time weather updates for Hyderabad, Telangana. Designed with a focus on user experience, this app features cool, visually pleasing colors that adapt dynamically to reflect the current weather conditions. \U0001F308"
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
