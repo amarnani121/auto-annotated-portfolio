@@ -19,6 +19,12 @@ media:
   altText: glims
   caption: Caption of the image
   elementId: ''
+backgroundImage:
+  type: BackgroundImage
+  backgroundSize: cover
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
 # Welcome to Amar’s AI Chat
 
