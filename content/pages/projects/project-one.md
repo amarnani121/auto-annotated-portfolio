@@ -5,10 +5,6 @@ colors: colors-e
 date: '2025-01-22'
 client: app
 description: "The Hyderabad Weather App is a sleek and dynamic web application that provides real-time weather updates for Hyderabad, Telangana. Designed with a focus on user experience, this app features cool, visually pleasing colors that adapt dynamically to reflect the current weather conditions. \U0001F308"
-featuredImage:
-  type: ImageBlock
-  url: /images/bg1.jpg
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-01-22 122009.png
