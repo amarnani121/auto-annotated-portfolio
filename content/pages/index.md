@@ -61,7 +61,7 @@ sections:
         borderWidth: 1
   - type: MediaGallerySection
     title: about ME?
-    subtitle: This is the subtitle
+    subtitle: find me here
     images:
       - type: ImageBlock
         url: /images/logo1.svg
