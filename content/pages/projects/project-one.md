@@ -20,7 +20,7 @@ backgroundImage:
   url: /images/Screenshot 2025-01-22 122009.png
   backgroundSize: auto
   backgroundPosition: right-top
-  backgroundRepeat: repeat-x
+  backgroundRepeat: repeat-y
   opacity: 20
 ---
 # Hyderabad Weather App 🌦️
