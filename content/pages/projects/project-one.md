@@ -21,7 +21,7 @@ backgroundImage:
   backgroundSize: auto
   backgroundPosition: right-top
   backgroundRepeat: repeat-x
-  opacity: 100
+  opacity: 49
 ---
 # Hyderabad Weather App 🌦️
 
