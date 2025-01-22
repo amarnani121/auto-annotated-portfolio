@@ -51,6 +51,9 @@ Amar’s AI Chat is a state-of-the-art platform offering lightning-fast chat cap
 
 ***
 
-## Try It Now!
+## [Try It Now!](https://amareshai.streamlit.app/)
 
 Dive into a world of intelligent, fast, and personalized AI interactions. Start your journey today!
+
+## [ click here](https://amareshai.streamlit.app/)
+
