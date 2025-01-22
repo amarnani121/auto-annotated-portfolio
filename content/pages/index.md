@@ -60,7 +60,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: MediaGallerySection
-    title: Gallery
+    title: ''
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
