@@ -21,7 +21,7 @@ media:
   elementId: ''
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Screenshot 2024-12-03 144453.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
