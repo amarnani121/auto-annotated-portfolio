@@ -60,7 +60,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: MediaGallerySection
-    title: ''
+    title: about ME?
     subtitle: This is the subtitle
     images:
       - type: ImageBlock
