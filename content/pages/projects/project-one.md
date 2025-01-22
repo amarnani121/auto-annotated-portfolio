@@ -21,6 +21,7 @@ backgroundImage:
   backgroundPosition: left-bottom
   backgroundRepeat: repeat
   opacity: 100
+  url: /images/bg4.jpg
 ---
 # Hyderabad Weather App 🌦️
 
