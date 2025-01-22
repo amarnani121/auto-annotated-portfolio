@@ -17,7 +17,7 @@ media:
   elementId: ''
 backgroundImage:
   type: BackgroundImage
-  url: /images/post-3.jpg
+  url: /images/Screenshot 2025-01-22 122009.png
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
