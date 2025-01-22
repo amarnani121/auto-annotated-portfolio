@@ -18,7 +18,7 @@ media:
 backgroundImage:
   type: BackgroundImage
   url: /images/Screenshot 2025-01-22 122009.png
-  backgroundSize: contain
+  backgroundSize: cover
   backgroundPosition: right
   backgroundRepeat: no-repeat
   opacity: 100
