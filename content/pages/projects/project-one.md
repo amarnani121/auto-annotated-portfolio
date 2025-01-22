@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool weather project
+title: "Hyderabad Weather App \U0001F326️"
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
