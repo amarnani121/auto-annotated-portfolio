@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: "Hyderabad Weather App \U0001F326️"
 colors: colors-a
-date: ''
+date: '2025-01-22'
 client: Awesome client
 description: >-
   It’s hard to imagine that I’ve that I wrote all this code by myself, probably
