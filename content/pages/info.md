@@ -14,9 +14,10 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      ## Hey I’m a passionate software developer with a deep interest in solving
-      complex problems. With a focus on Python, I’m constantly striving to
-      refine my coding skills and stay ahead of the curve in the world of tech.
+      ## Hey I’m a passionate software developer with a deep  interest in
+      solving complex problems. With a focus on Python, I’m constantly striving
+      to refine my coding skills and stay ahead of the curve in the world of
+      tech.
 
 
       I believe in the power of continuous learning and brain engagement, always
