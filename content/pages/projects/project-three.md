@@ -20,7 +20,7 @@ media:
   caption: Caption of the image
   elementId: ''
 ---
-# <https://amareshai.streamlit.app/>Welcome to Amar’s AI Chat
+# Welcome to Amar’s AI Chat
 
 Experience the future of AI-driven conversations!
 
@@ -54,3 +54,6 @@ Amar’s AI Chat is a state-of-the-art platform offering lightning-fast chat cap
 ## [Try It Now!](https://amareshai.streamlit.app/)
 
 Dive into a world of intelligent, fast, and personalized AI interactions. Start your journey today!
+
+## [ click here](https://amareshai.streamlit.app/)
+
