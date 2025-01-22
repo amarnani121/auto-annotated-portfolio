@@ -3,7 +3,7 @@ type: ProjectLayout
 title: "Hyderabad Weather App \U0001F326️"
 colors: colors-b
 date: '2025-01-22'
-client: Awesome client
+client: app
 description: "The Hyderabad Weather App is a sleek and dynamic web application that provides real-time weather updates for Hyderabad, Telangana. Designed with a focus on user experience, this app features cool, visually pleasing colors that adapt dynamically to reflect the current weather conditions. \U0001F308"
 featuredImage:
   type: ImageBlock
