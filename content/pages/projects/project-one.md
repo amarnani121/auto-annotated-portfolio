@@ -5,13 +5,10 @@ colors: colors-e
 date: '2025-01-22'
 client: webapp
 description: >-
-  "Age Calculator Web App"This user-friendly web application simplifies age
-  calculation with precision and style. Designed with a strong focus on user
-  experience, it features dynamic, visually pleasing colors that adapt to the
-  user's preferences. Whether you're tracking birthdays, anniversaries, or
-  milestones, the app delivers accurate results with an intuitive interface. The
-  elegant design ensures accessibility and engagement, making it perfect for all
-  users.
+  "Age Calculator Web App"  A sleek and intuitive web app designed to calculate
+  age precisely. With dynamic, visually appealing colors and a user-friendly
+  interface, it delivers a seamless experience for all users. Perfect for quick
+  and accurate age tracking!
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-01-23 192516.png
