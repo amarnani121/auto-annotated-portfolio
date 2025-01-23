@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: "Hyderabad Weather App \U0001F326️"
+title: ' age calculator app'
 colors: colors-e
 date: '2025-01-22'
 client: webapp
