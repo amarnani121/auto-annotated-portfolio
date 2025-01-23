@@ -14,7 +14,7 @@ description: >-
   users.
 media:
   type: ImageBlock
-  url: /images/Screenshot 2025-01-22 122009.png
+  url: /images/Screenshot 2025-01-23 192516.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
