@@ -4,7 +4,14 @@ title: ' age calculator app'
 colors: colors-e
 date: '2025-01-22'
 client: webapp
-description: "The Hyderabad Weather App is a sleek and dynamic web application that provides real-time weather updates for Hyderabad, Telangana. Designed with a focus on user experience, this app features cool, visually pleasing colors that adapt dynamically to reflect the current weather conditions. \U0001F308"
+description: >-
+  "Age Calculator Web App"This user-friendly web application simplifies age
+  calculation with precision and style. Designed with a strong focus on user
+  experience, it features dynamic, visually pleasing colors that adapt to the
+  user's preferences. Whether you're tracking birthdays, anniversaries, or
+  milestones, the app delivers accurate results with an intuitive interface. The
+  elegant design ensures accessibility and engagement, making it perfect for all
+  users.
 media:
   type: ImageBlock
   url: /images/Screenshot 2025-01-22 122009.png
