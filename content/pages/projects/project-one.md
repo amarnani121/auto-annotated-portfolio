@@ -27,7 +27,7 @@ backgroundImage:
   url: /images/bg4.jpg
 featuredImage:
   type: ImageBlock
-  url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+  url: /images/Screenshot 2025-01-23 192516.png
   altText: altText of the image
   caption: Caption of the image
   elementId: ''
