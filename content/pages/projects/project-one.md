@@ -29,20 +29,15 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 ---
-# [Hyderabad Weather App 🌦️](https://llamacoder.together.ai/share/v2/8biQJJhlUgmnw-UQ)
-
 ## Key Features
 
-*   **Real-Time Weather Data:** Get the latest temperature, humidity, and weather descriptions for Hyderabad at a glance. 🌡️
-*   **Dynamic Color Themes:** The app's background and interface colors change based on the weather conditions, offering a visually engaging experience. ☀️🌧️
-*   **Responsive Design:** Optimized for all devices, ensuring a seamless experience on both desktop and mobile. 📱💻
-*   **User-Friendly Interface:** A clean, intuitive layout makes it easy to check the weather in seconds. 🚀
+- **Precise Age Calculation:** Instantly calculate age in years, months, days, hours, and seconds. ⏳  
+- **Dynamic Color Themes:** Adaptive and visually appealing colors that enhance the user experience. 🎨  
+- **Responsive Design:** Seamlessly accessible on desktops, tablets, and smartphones. 📱💻  
+- **User-Friendly Interface:** A clean and intuitive layout for quick and easy usage. 🚀  
 
-## Technology Stack
+## Technology Stack  
 
-*   **Frontend:** Built using **Next.js** for efficient rendering and modern user interface capabilities. 🖥️
-*   **Styling:** Crafted with **Tailwind CSS** to achieve the cool, adaptive color schemes. 🎨
-*   **API Integration:** Utilizes a reliable weather API to fetch accurate and up-to-date weather data. 🌐
-
-### [click here](https://llamacoder.together.ai/share/v2/8biQJJhlUgmnw-UQ)
+- **Frontend:** Built using **HTML, CSS, and JavaScript** for a smooth user experience. 🌐  
+- **Styling:** Enhanced with modern design principles for aesthetic appeal. ✨  
 
