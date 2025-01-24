@@ -21,7 +21,6 @@ backgroundImage:
   backgroundPosition: left-bottom
   backgroundRepeat: repeat
   opacity: 100
-  url: /images/bg4.jpg
 featuredImage:
   type: ImageBlock
   url: /images/Screenshot 2025-01-23 192516.png
