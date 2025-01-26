@@ -69,7 +69,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: LinkedIn
+        label: ' LinkedIn'
         altText: ''
         url: 'https://www.linkedin.com/in/amareshuppaluri/'
         showIcon: true
@@ -78,24 +78,43 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Hire me
+        label: Projects
         altText: ''
-        url: /
+        url: '/https://amarnani.netlify.app/projects/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
-    colors: colors-c
-    backgroundSize: full
+      - type: Button
+        label: YouTube
+        altText: ''
+        url: 'https://youtube.com/@amarnani121'
+        showIcon: true
+        icon: playCircle
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: RESUME
+        altText: ''
+        url: >-
+          /https://docs.google.com/document/d/1NtemMRoSvtvT1nEdltOE_KI8tiQ2A_KCCCpP9BjuoLs/edit?usp=sharing
+        showIcon: true
+        icon: arrowRightCircle
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    colors: colors-b
+    backgroundSize: inset
     elementId: ''
     styles:
       self:
         height: auto
         width: wide
         padding:
-          - pt-36
-          - pb-48
+          - pt-8
+          - pb-8
           - pl-4
           - pr-4
         alignItems: center
