@@ -69,7 +69,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: LinkedIn
         altText: ''
         url: 'https://www.linkedin.com/in/amareshuppaluri/'
         showIcon: true
