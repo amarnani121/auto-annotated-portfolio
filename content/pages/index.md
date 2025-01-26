@@ -78,7 +78,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: Hire me
+        label: Projects
         altText: ''
         url: /
         showIcon: true
