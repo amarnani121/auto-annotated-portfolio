@@ -75,7 +75,7 @@ sections:
         showIcon: true
         icon: linkedin
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
       - type: Button
         label: Hire me
