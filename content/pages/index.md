@@ -90,7 +90,7 @@ sections:
         label: YouTube
         altText: ''
         url: /youtube
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
