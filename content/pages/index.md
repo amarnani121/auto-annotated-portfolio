@@ -12,10 +12,8 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
-    title: >-
-      "I’m a developer, Code, creativity, and problem-solving—it's what I do to
-      bring ideas to life
+    backgroundSize: inset
+    title: '"Exploring Code: A Portfolio of My Work"'
     subtitle: >-
       A showcase of creativity, dedication, and skills. Scroll down to explore
       the details that define me
@@ -99,19 +97,19 @@ sections:
         label: RESUME
         altText: ''
         url: >-
-          /https://docs.google.com/document/d/1NtemMRoSvtvT1nEdltOE_KI8tiQ2A_KCCCpP9BjuoLs/edit?usp=sharing
+          https://docs.google.com/document/d/1NtemMRoSvtvT1nEdltOE_KI8tiQ2A_KCCCpP9BjuoLs/edit?usp=sharingusp=sharing
         showIcon: true
         icon: arrowRightCircle
         iconPosition: right
         style: secondary
         elementId: ''
-    colors: colors-b
+    colors: colors-f
     backgroundSize: inset
     elementId: ''
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         padding:
           - pt-8
           - pb-8

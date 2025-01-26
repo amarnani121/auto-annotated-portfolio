@@ -40,8 +40,10 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "amarnani121@gmail.com",
-                "altText": ""
+                "url": "",
+                "altText": "",
+                "showIcon": true,
+                "icon": "send"
             }
         ],
         "contacts": {
@@ -57,9 +59,9 @@
         "copyrightText": "Powered by Amar\\`s [Netlify](https://www.netlify.com/)\n",
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "wide",
                 "padding": [
-                    "pt-16",
+                    "pt-7",
                     "pb-16",
                     "pr-4",
                     "pl-4"
