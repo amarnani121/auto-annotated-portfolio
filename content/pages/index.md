@@ -102,7 +102,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         elementId: ''
-    colors: colors-d
+    colors: colors-a
     variant: variant-b
     elementId: ''
     recentCount: 6
