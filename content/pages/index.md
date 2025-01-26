@@ -59,14 +59,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: '/https://amarnani.netlify.app/info/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
       - type: Button
         label: Hire me
         altText: ''
