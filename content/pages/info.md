@@ -21,16 +21,14 @@ sections:
       growing in this ever-evolving field!
 
 
-
-
       I believe in the power of continuous learning and brain engagement, always
       challenging myself to think critically and improve. Outside of coding, I
       share my journey  to stay consistent and motivated.
 
 
-      I’m always excited to connect with like-minded individuals, learn from
-      others, and collaborate on meaningful projects. Explore my work and feel
-      free to reach out!
+      i’m always excited to connect with like-minded individuals, learn from
+      others, and collaborate on meaningful projects. Feel free to explore my
+      work, and don’t hesitate to reach out!
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-11-29 at 22.09.33_9f991166.jpg
