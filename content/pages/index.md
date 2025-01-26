@@ -87,7 +87,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: YouTube
         altText: ''
         url: /youtube
         showIcon: false
