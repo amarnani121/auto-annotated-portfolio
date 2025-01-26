@@ -99,7 +99,7 @@ sections:
         label: RESUME
         altText: ''
         url: >-
-          /https://docs.google.com/document/d/1NtemMRoSvtvT1nEdltOE_KI8tiQ2A_KCCCpP9BjuoLs/edit?usp=sharing
+          https://docs.google.com/document/d/1NtemMRoSvtvT1nEdltOE_KI8tiQ2A_KCCCpP9BjuoLs/edit?usp=sharingusp=sharing
         showIcon: true
         icon: arrowRightCircle
         iconPosition: right
