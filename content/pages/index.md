@@ -51,7 +51,7 @@ sections:
     subtitle: ''
     actions:
       - type: Button
-        label: Learn more
+        label: about me
         altText: ''
         url: 'https://amarnani.netlify.app/info/'
         showIcon: false
