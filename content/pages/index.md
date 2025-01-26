@@ -91,7 +91,7 @@ sections:
         altText: ''
         url: /youtube
         showIcon: true
-        icon: send
+        icon: playCircle
         iconPosition: right
         style: secondary
         elementId: ''
