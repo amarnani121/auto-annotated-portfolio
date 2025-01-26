@@ -14,10 +14,11 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >
-      ## Hey I’m a passionate software developer with a deep  interest in
-      solving complex problems. With a focus on Python, I’m constantly striving
-      to refine my coding skills and stay ahead of the curve in the world of
-      tech.
+      ### Hello! I’m a passionate software developer with a strong enthusiasm
+      for tackling complex problems. My primary focus is on Python, and I’m
+      always looking for ways to enhance my coding skills and keep up with the
+      latest trends in technology. I love what I do and am excited to continue
+      growing in this ever-evolving field!
 
 
       I believe in the power of continuous learning and brain engagement, always
@@ -25,9 +26,9 @@ sections:
       share my journey  to stay consistent and motivated.
 
 
-      I’m always excited to connect with like-minded individuals, learn from
-      others, and collaborate on meaningful projects. Explore my work and feel
-      free to reach out!
+      i’m always excited to connect with like-minded individuals, learn from
+      others, and collaborate on meaningful projects. Feel free to explore my
+      work, and don’t hesitate to reach out!
     media:
       type: ImageBlock
       url: /images/WhatsApp Image 2024-11-29 at 22.09.33_9f991166.jpg
