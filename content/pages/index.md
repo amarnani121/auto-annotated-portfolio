@@ -60,7 +60,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
-        label: github
+        label: ' My GitHub'
         altText: ''
         url: '/https://github.com/amarnani121'
         showIcon: true
