@@ -73,7 +73,7 @@ sections:
         altText: ''
         url: 'https://www.linkedin.com/in/amareshuppaluri/'
         showIcon: true
-        icon: arrowRight
+        icon: linkedin
         iconPosition: right
         style: primary
         elementId: ''
