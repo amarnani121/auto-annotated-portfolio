@@ -56,7 +56,7 @@ sections:
         url: 'https://amarnani.netlify.app/info/'
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: primary
         elementId: ''
       - type: Button
