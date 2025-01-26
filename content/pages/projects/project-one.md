@@ -29,15 +29,19 @@ featuredImage:
   caption: Caption of the image
   elementId: ''
 ---
+[**website link......**.](https://llamacoder.together.ai/share/v2/7gmafBCfVT8yC-zp)
+
 ## Key Features
 
-- **Precise Age Calculation:** Instantly calculate age in years, months, days, hours, and seconds. ⏳  
-- **Dynamic Color Themes:** Adaptive and visually appealing colors that enhance the user experience. 🎨  
-- **Responsive Design:** Seamlessly accessible on desktops, tablets, and smartphones. 📱💻  
-- **User-Friendly Interface:** A clean and intuitive layout for quick and easy usage. 🚀  
+*   **Precise Age Calculation:** Instantly calculate age in years, months, days, hours, and seconds. ⏳
+*   **Dynamic Color Themes:** Adaptive and visually appealing colors that enhance the user experience. 🎨
+*   **Responsive Design:** Seamlessly accessible on desktops, tablets, and smartphones. 📱💻
+*   **User-Friendly Interface:** A clean and intuitive layout for quick and easy usage. 🚀
 
-## Technology Stack  
+## Technology Stack
 
-- **Frontend:** Built using **HTML, CSS, and JavaScript** for a smooth user experience. 🌐  
-- **Styling:** Enhanced with modern design principles for aesthetic appeal. ✨  
+*   **Frontend:** Built using **HTML, CSS, and JavaScript** for a smooth user experience. 🌐
+*   **Styling:** Enhanced with modern design principles for aesthetic appeal. ✨   .
+
+#### [**website link......**.](https://llamacoder.together.ai/share/v2/7gmafBCfVT8yC-zp)
 

@@ -46,6 +46,108 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: HeroSection
+    title: ''
+    subtitle: ''
+    actions:
+      - type: Button
+        label: about me
+        altText: ''
+        url: 'https://amarnani.netlify.app/info/'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: ' My GitHub'
+        altText: ''
+        url: '/https://github.com/amarnani121'
+        showIcon: true
+        icon: github
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: LinkedIn
+        altText: ''
+        url: 'https://www.linkedin.com/in/amareshuppaluri/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: Hire me
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-c
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+  - type: RecentProjectsSection
+    subtitle: Projects
+    actions:
+      - type: Link
+        label: See all projects
+        altText: See all projects
+        url: /projects
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+    colors: colors-f
+    variant: variant-b
+    elementId: ''
+    recentCount: 6
+    showDate: false
+    showDescription: true
+    showFeaturedImage: true
+    showReadMoreLink: true
+    styles:
+      self:
+        height: screen
+        width: wide
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 0
+        borderStyle: none
+        borderRadius: none
+        borderColor: border-primary
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      actions:
+        justifyContent: center
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -112,42 +214,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: HeroSection
-    title: ''
-    subtitle: ''
-    actions:
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 socialImage: /images/Screenshot 2024-12-03 144453.png
 metaTitle: 'Amaresh '
 ---
