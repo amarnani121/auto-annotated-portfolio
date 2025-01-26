@@ -64,7 +64,7 @@ sections:
         altText: ''
         url: '/https://github.com/amarnani121'
         showIcon: false
-        icon: arrowRight
+        icon: github
         iconPosition: right
         style: primary
         elementId: ''
