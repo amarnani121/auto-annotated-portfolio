@@ -42,7 +42,8 @@
                 "label": "Contact",
                 "url": "",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "apple"
             }
         ],
         "contacts": {
