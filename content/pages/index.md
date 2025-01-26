@@ -123,6 +123,7 @@ sections:
         borderWidth: 0
         borderStyle: none
         borderRadius: none
+        borderColor: border-primary
       title:
         textAlign: left
       subtitle:
