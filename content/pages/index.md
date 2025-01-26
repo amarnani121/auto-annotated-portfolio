@@ -121,6 +121,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 0
+        borderStyle: double
       title:
         textAlign: left
       subtitle:
