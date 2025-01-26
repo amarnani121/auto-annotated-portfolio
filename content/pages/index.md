@@ -63,7 +63,7 @@ sections:
         label: github
         altText: ''
         url: '/https://github.com/amarnani121'
-        showIcon: false
+        showIcon: true
         icon: github
         iconPosition: right
         style: primary
