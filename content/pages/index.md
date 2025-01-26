@@ -80,7 +80,7 @@ sections:
       - type: Button
         label: Projects
         altText: ''
-        url: /
+        url: '/https://amarnani.netlify.app/projects/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
