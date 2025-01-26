@@ -101,7 +101,7 @@ sections:
         url: >-
           /https://docs.google.com/document/d/1NtemMRoSvtvT1nEdltOE_KI8tiQ2A_KCCCpP9BjuoLs/edit?usp=sharing
         showIcon: true
-        icon: arrowRight
+        icon: chevronLeft
         iconPosition: right
         style: secondary
         elementId: ''
