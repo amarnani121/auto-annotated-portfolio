@@ -46,6 +46,59 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+  - type: HeroSection
+    title: ''
+    subtitle: ''
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: 'https://amarnani.netlify.app/info/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: '/https://amarnani.netlify.app/info/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
+      - type: Button
+        label: Hire me
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    colors: colors-c
+    backgroundSize: full
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-36
+          - pb-48
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: ContactSection
     colors: colors-f
     backgroundSize: full
@@ -112,59 +165,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-  - type: HeroSection
-    title: ''
-    subtitle: ''
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: 'https://amarnani.netlify.app/info/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Link
-        label: Learn more
-        altText: ''
-        url: '/https://amarnani.netlify.app/info/'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
-      - type: Button
-        label: Hire me
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    colors: colors-c
-    backgroundSize: full
-    elementId: ''
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-36
-          - pb-48
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
 socialImage: /images/Screenshot 2024-12-03 144453.png
 metaTitle: 'Amaresh '
 ---
