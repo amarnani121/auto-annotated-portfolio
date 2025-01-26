@@ -89,7 +89,7 @@ sections:
       - type: Button
         label: YouTube
         altText: ''
-        url: /youtube
+        url: 'https://youtube.com/@amarnani121'
         showIcon: true
         icon: playCircle
         iconPosition: right
