@@ -41,7 +41,8 @@
                 "type": "Link",
                 "label": "Contact",
                 "url": "",
-                "altText": ""
+                "altText": "",
+                "showIcon": true
             }
         ],
         "contacts": {
