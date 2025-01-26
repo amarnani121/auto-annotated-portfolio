@@ -121,7 +121,7 @@ sections:
           - pr-4
         justifyContent: center
         borderWidth: 0
-        borderStyle: double
+        borderStyle: none
         borderRadius: none
       title:
         textAlign: left
