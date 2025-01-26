@@ -120,6 +120,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
+        borderWidth: 5
       title:
         textAlign: left
       subtitle:
