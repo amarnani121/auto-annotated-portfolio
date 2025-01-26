@@ -54,7 +54,7 @@ sections:
         label: about me
         altText: ''
         url: 'https://amarnani.netlify.app/info/'
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
