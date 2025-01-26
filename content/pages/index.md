@@ -120,7 +120,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 4
+        borderWidth: 0
         borderStyle: double
         borderRadius: none
       title:
