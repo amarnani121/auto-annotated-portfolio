@@ -66,7 +66,7 @@ sections:
         showIcon: true
         icon: github
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
       - type: Button
         label: Learn more
