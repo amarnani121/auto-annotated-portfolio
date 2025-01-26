@@ -122,6 +122,7 @@ sections:
         justifyContent: center
         borderWidth: 4
         borderStyle: double
+        borderRadius: x-small
       title:
         textAlign: left
       subtitle:
