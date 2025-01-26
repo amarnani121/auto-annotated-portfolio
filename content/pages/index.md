@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       "I’m a developer, Code, creativity, and problem-solving—it's what I do to
       bring ideas to life
