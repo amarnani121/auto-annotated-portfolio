@@ -71,7 +71,7 @@ sections:
       - type: Button
         label: Learn more
         altText: ''
-        url: '/https://amarnani.netlify.app/projects/'
+        url: 'https://www.linkedin.com/in/amareshuppaluri/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
