@@ -60,6 +60,15 @@ sections:
         style: secondary
         elementId: ''
       - type: Button
+        label: Learn more
+        altText: ''
+        url: '/https://github.com/amarnani121'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
         label: Hire me
         altText: ''
         url: /
