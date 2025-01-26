@@ -59,7 +59,7 @@
         "copyrightText": "Powered by Amar\\`s [Netlify](https://www.netlify.com/)\n",
         "styles": {
             "self": {
-                "width": "narrow",
+                "width": "wide",
                 "padding": [
                     "pt-7",
                     "pb-16",
