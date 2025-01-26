@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
-    title: >-
-      "I’m a developer, Code, creativity, and problem-solving—it's what I do to
-      bring ideas to life
+    title: '"Exploring Code: A Portfolio of My Work"'
     subtitle: >-
       A showcase of creativity, dedication, and skills. Scroll down to explore
       the details that define me
