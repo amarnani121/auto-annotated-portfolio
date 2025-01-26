@@ -72,7 +72,7 @@ sections:
         label: Learn more
         altText: ''
         url: 'https://www.linkedin.com/in/amareshuppaluri/'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
