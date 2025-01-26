@@ -105,7 +105,7 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: inset
     elementId: ''
     styles:
