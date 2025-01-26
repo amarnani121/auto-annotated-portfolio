@@ -69,6 +69,15 @@ sections:
         style: primary
         elementId: ''
       - type: Button
+        label: Learn more
+        altText: ''
+        url: '/https://amarnani.netlify.app/projects/'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Button
         label: Hire me
         altText: ''
         url: /
