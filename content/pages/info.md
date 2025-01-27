@@ -31,7 +31,6 @@ sections:
       work, and don’t hesitate to reach out!
     media:
       type: ImageBlock
-      url: /images/WhatsApp Image 2024-11-29 at 22.09.33_9f991166.jpg
       altText: Hero image
     styles:
       self:
@@ -58,118 +57,88 @@ sections:
       actions:
         justifyContent: flex-start
     type: HeroSection
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
+  - type: HeroSection
+    title: ''
+    subtitle: ''
+    actions:
+      - type: Button
+        label: about me
+        altText: ''
+        url: 'https://amarnani.netlify.app/info/'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: ' My GitHub'
+        altText: ''
+        url: '/https://github.com/amarnani121'
+        showIcon: true
+        icon: github
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: ' LinkedIn'
+        altText: ''
+        url: 'https://www.linkedin.com/in/amareshuppaluri/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: Projects
+        altText: ''
+        url: '/https://amarnani.netlify.app/projects/'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: YouTube
+        altText: ''
+        url: 'https://youtube.com/@amarnani121'
+        showIcon: true
+        icon: playCircle
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: RESUME
+        altText: ''
+        url: >-
+          https://docs.google.com/document/d/1NtemMRoSvtvT1nEdltOE_KI8tiQ2A_KCCCpP9BjuoLs/edit?usp=sharingusp=sharing
+        showIcon: true
+        icon: arrowRightCircle
+        iconPosition: right
+        style: secondary
+        elementId: ''
     colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/amarnani121'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions: []
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions: []
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Linkedin
-            url: 'https://www.linkedin.com/in/amareshuppaluri'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions: []
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
+    backgroundSize: inset
+    elementId: ''
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         padding:
           - pt-8
           - pb-8
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
+        flexDirection: row
       title:
         textAlign: left
       subtitle:
         textAlign: left
-    subtitle: 'You can find me here:'
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: LabelsSection
-    colors: colors-f
-    subtitle: 'Skills:'
-    items:
-      - type: Label
-        label: ' Python'
-      - type: Label
-        label: 'HTML, CSS, JavaScript (Basic)'
-      - type: Label
-        label: 'Git, GitHub, Visual Studio Code, Jupyter Notebook'
-      - type: Label
-        label: 'SQL, MySQL'
-      - type: Label
-        label: Object-Oriented Programming (OOP)
-      - type: Label
-        label: ''
-      - type: Label
-        label: C++
-      - type: Label
-        label: "Software Design\_Principles"
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - type: DividerSection
     styles:
       self:
