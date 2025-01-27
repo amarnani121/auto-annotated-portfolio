@@ -95,4 +95,87 @@ bottomSections:
         textAlign: left
       text:
         textAlign: left
+topSections:
+  - type: HeroSection
+    title: ''
+    subtitle: ''
+    actions:
+      - type: Button
+        label: about me
+        altText: ''
+        url: 'https://amarnani.netlify.app/info/'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: left
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: ' My GitHub'
+        altText: ''
+        url: '/https://github.com/amarnani121'
+        showIcon: true
+        icon: github
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: ' LinkedIn'
+        altText: ''
+        url: 'https://www.linkedin.com/in/amareshuppaluri/'
+        showIcon: true
+        icon: linkedin
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: Projects
+        altText: ''
+        url: '/https://amarnani.netlify.app/projects/'
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: YouTube
+        altText: ''
+        url: 'https://youtube.com/@amarnani121'
+        showIcon: true
+        icon: playCircle
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Button
+        label: RESUME
+        altText: ''
+        url: >-
+          https://docs.google.com/document/d/1NtemMRoSvtvT1nEdltOE_KI8tiQ2A_KCCCpP9BjuoLs/edit?usp=sharingusp=sharing
+        showIcon: true
+        icon: arrowRightCircle
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    colors: colors-f
+    backgroundSize: inset
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: full
+        padding:
+          - pt-8
+          - pb-8
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
 ---
